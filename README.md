@@ -1,4 +1,5 @@
-### Hi there 👋
+🌱 Ha Eun 🌱
+
 
 <!--
 **gkdmssidhd/gkdmssidhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
