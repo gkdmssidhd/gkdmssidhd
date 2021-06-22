@@ -1,6 +1,12 @@
 🌱 Ha Eun 🌱
 
 
+☺I'm Junior Developer(توسعه دهنده)☺
+
+
+✨TISTORY✨
+https://hahaeun.tistory.com/
+
 <!--
 **gkdmssidhd/gkdmssidhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
